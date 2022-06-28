@@ -8,7 +8,8 @@
 
 -:+1: eu estou enteressado em aprender a programar novas linguagens
 
-- 🌱 estou Aprendendo a programar recentemente a linguagem de JavaScript e Scratch
+- 🌱 estou Aprendendo a programar recentemente a linguagem de JavaScript e Scratch , sou estudante
+.
 
 <!---
 Anaestud4nte/Anaestud4nte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
